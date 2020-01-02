@@ -37,6 +37,6 @@ I have been debating on creating a blog for a long time and decided I wanted to 
 
 
 ## Bijayadhs#1274  -  168Hours
-###I was on tutorial purgatory since last year. I don't have any project to show off. As I have a fulltime job in restaurant, I couldn't able to give my full focus on building stuff. I was trying to put my schedule on paper on a weekly basis that gave me some kind of productivity. I want to build an app that will track your schedule for a whole week, every hour what you invest on so that it will give you overall feedback what you have done and what you can change the future. I want to build this new web application with html, css, js, react and nodejs. #30DayProject  :+1:
+I was on tutorial purgatory since last year. I don't have any project to show off. As I have a fulltime job in restaurant, I couldn't able to give my full focus on building stuff. I was trying to put my schedule on paper on a weekly basis that gave me some kind of productivity. I want to build an app that will track your schedule for a whole week, every hour what you invest on so that it will give you overall feedback what you have done and what you can change the future. I want to build this new web application with html, css, js, react and nodejs. #30DayProject  :+1:
 - [Project Repo](https://github.com/Bijayadhs/168hours)
 - [Twitter](https://twitter.com/bijayadhs2015)
